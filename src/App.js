@@ -1,6 +1,9 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import Dashboard from 'Dashboard';
+import Header from 'Header';
+import Wizard from 'Wizard';
 
 function App() {
   return (
